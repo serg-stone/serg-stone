@@ -207,9 +207,9 @@ Hugging Face Datasets, Kaggle, OpenML.
 
 # Среды разработки
 ## IDE и ноутбуки
-VS Code, PyCharm, Cursor, IntelliJ IDEA, Google Colab.
+VS Code, PyCharm, Cursor, IntelliJ IDEA, Google Colab, Jupyter Notebook.
 ## Профилировщики
-PyTorch Profiler, TensorBoard.
+PyTorch Profiler, TensorBoard, SQL Profiler.
 
 # Соответствие требованиям предприятия
 ## Архивирование
